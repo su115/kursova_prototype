@@ -2,7 +2,7 @@
 # Load and Start:
 ```
 git clone https://github.com/su115/kursova_prototype.git
-cd class/
+cd kursova_prototype/class/
 python3 main.py
 ```
 # 
