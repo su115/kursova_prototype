@@ -12,4 +12,4 @@ python3 main.py
 #### Main menu:
 ![Menu terminal](scr/main_menu.png) 
 #### class Diagram
-![Class Diagramm](src/class_diagram)
+![Class Diagramm](src/class_diagram.png)
